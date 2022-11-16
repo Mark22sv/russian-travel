@@ -8,4 +8,4 @@
 
 Использованы технологии: HTML, CSS
 
-[Ссылка на GitHub pages](https://github.com/Mark22sv/russian-travel.git)
+[Ссылка на GitHub pages](https://github.com/Mark22sv/russian-travel/index.html)
