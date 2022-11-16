@@ -1,0 +1,12 @@
+.place__link {
+  width: 100%;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height, or 122% */
+  text-decoration-line: underline;
+  color: #ffffff;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
