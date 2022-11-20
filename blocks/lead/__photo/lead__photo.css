@@ -1,0 +1,32 @@
+.lead__photo {
+  width: 984px;
+  height: 615px;
+  margin: 64px 0 0 0;
+  padding: 0;
+  display: block;
+  box-sizing: border-box;
+}
+
+  @media screen and (max-width: 1279px) {
+  .lead__photo {
+    width: 928px;
+    margin: 56px 0 0 0;
+    height: 580px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__photo {
+    width: 100%;
+    height: 480px;
+    margin: 56px 0 0 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__photo {
+    width: 100%;
+    margin: 40px 0 0 0;
+    height: 200px;
+  }
+}
