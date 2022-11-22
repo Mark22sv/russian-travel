@@ -1,5 +1,5 @@
 .lead {
-  width: 984px;
+  width: calc(100% - 2*148px);
   height: 1005px;
   display: flex;
   flex-direction: column;
@@ -9,9 +9,8 @@
 
 @media screen and (max-width: 1279px) {
   .lead {
-    width: 928px;
+    width: calc(100% - 2*48px);
     height: 962px;
-    margin-bottom: 106px;
   }
 }
 
@@ -25,7 +24,6 @@
 
 @media screen and (max-width: 767px) {
   .lead {
-    width: 100%;
     height: 406px;
     margin-bottom: 64px;
   }

@@ -1,25 +1,18 @@
 .content {
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-bottom: 92px;
 }
 
-@media screen and (max-width: 1279px) {
-  .content {
-    width: 1024px;
-  }
-}
-
 @media screen and (max-width: 1023px) {
   .content {
-    width: 768px;
     margin-bottom: 88px;  }
 }
 
 @media screen and (max-width: 767px) {
   .content {
-    width: 320px;
     min-height: 200px;
     margin-bottom: 64px;
   }
