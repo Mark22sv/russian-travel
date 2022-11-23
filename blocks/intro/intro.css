@@ -13,7 +13,6 @@
   .intro {
     width: calc(100% - 2*48px);
     max-width: 928px;
-    margin-bottom: 78px;
   }
 }
 

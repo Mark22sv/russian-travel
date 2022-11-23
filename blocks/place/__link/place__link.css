@@ -10,8 +10,8 @@
   display: block;
   margin: 0;
   padding: 0;
+  transition: 1s ease-in-out;
 }
 .place__link:hover {
-  transition: 1s ease-in-out;
   opacity: 0.3;
 }
