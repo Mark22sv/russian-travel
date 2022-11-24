@@ -8,7 +8,6 @@
 {
 .photo-grid {
   max-width: 928px;
-  min-height: 942px;
   }
 }
 
@@ -16,7 +15,6 @@
 {
 .photo-grid {
   max-width: 720px;
-  min-height: 1664px;
   margin-bottom: 88px;
   }
 }
@@ -25,7 +23,6 @@
 {
   .photo-grid {
     max-width: 288px;
-    min-height: 2724px;
     margin-bottom: 64px;
   }
 }

@@ -1,6 +1,5 @@
 .lead__photo {
   max-width: 984px;
-  height: 615px;
   margin: 64px 0 0 0;
   padding: 0;
   display: block;
@@ -11,14 +10,12 @@
   .lead__photo {
     max-width: 928px;
     margin: 56px 0 0 0;
-    height: 580px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .lead__photo {
     max-width: 768px;
-    height: 480px;
   }
 }
 
@@ -26,6 +23,5 @@
   .lead__photo {
     max-width: 320px;
     margin: 40px 0 0 0;
-    height: 200px;
   }
 }
